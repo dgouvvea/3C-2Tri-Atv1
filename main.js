@@ -6,7 +6,8 @@ var txResultado = document.querySelector(".tx-resultado");
 var perguntas = [
     {
         enunciado: "A IA pode automatizar tarefas repetitivas.",
-        alternativas: [    
+        alternativas: [
+                
             "Vai eliminar tarefas monotonas",
             "Vai tirar muitos empregos"
         ]
